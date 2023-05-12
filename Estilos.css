@@ -4,9 +4,9 @@
   border-radius: 20px;
   box-shadow: 0 4px 8px 0 rgb(177, 177, 177);
   margin: 50px auto;
-  max-width: 1300px;
-  height: 650px; /* Se aumentó la altura del contenedor del chatbot */
-  padding: 30px;
+  max-width: 1200px;
+  height: 500px; /* Se aumentó la altura del contenedor del chatbot */
+  padding: 25px;
   font-family: 'Anton', sans-serif;
 }
 
@@ -42,14 +42,14 @@
   padding: 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 }
 
 
 
 .enviar-btn {
   background-color: #ffffff;
-  background-image: url('EnviarICON.png'); 
+  background-image: url('img/EnviarICON.png'); 
   background-size: 35px;
   background-position: center center;
   background-repeat: no-repeat;
@@ -236,4 +236,6 @@
  
   
 }
+
+
 
