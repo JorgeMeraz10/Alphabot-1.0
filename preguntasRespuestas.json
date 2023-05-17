@@ -1,0 +1,116 @@
+{
+    "¿Cuál es la capital de Honduras?": "La capital de Honduras es Tegucigalpa.",
+    "¿En qué año se fundó Google?": "Google fue fundado en 1998.",
+    "¿Cuál es la página web oficial de la Casa Blanca?": "La página web oficial de la Casa Blanca es <a href='https://www.whitehouse.gov/'>https://www.whitehouse.gov/</a>",
+    "¿Cuántos planetas hay en el sistema solar?": "Hay ocho planetas en el sistema solar.",
+    "¿Qué es un algoritmo?": "Un algoritmo es un conjunto ordenado de instrucciones que se utilizan para realizar una tarea o resolver un problema.",
+    "¿Cuál es el río más largo del mundo?": "El río más largo del mundo es el Nilo.<br><img src='https://upload.wikimedia.org/wikipedia/commons/0/0d/River-Nile-near-Aswan.jpg' alt='Imagen del río Nilo' width='300' height='200'>",
+    "¿Quién escribió el Quijote?": "El Quijote fue escrito por Miguel de Cervantes.",
+    "¿Cuál es la capital de Argentina?": "La capital de Argentina es Buenos Aires.",
+    "¿Qué haces para divertirte?": "Soy un bot, así que mi función principal es ayudar a responder preguntas y proporcionar información.",
+    "¿Cuál es la capital de Francia?": "La capital de Francia es París.",
+    "¿Cuál es el animal terrestre más grande?": "El animal terrestre más grande es el elefante africano.<br><img src='https://upload.wikimedia.org/wikipedia/commons/f/fd/Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sudáfrica%2C_2018-07-25%2C_DD_12.jpg' alt='Imagen de un elefante africano' width='300' height='200'>",
+    "¿Cuál es el océano más grande del mundo?": "El océano más grande del mundo es el Océano Pacífico.",
+    "¿Quién fue el primer presidente de los Estados Unidos?": "El primer presidente de los Estados Unidos fue George Washington.",
+    "¿Cuál es el idioma más hablado en el mundo?": "El idioma más hablado en el mundo es el chino mandarín.",
+    "¿Cuál es la moneda oficial de Japón?": "La moneda oficial de Japón es el yen.",
+    "¿Cuántos huesos tiene el cuerpo humano?": "El cuerpo humano tiene 206 huesos.",
+    "¿Cuál es el símbolo químico del agua?": "El símbolo químico del agua es H2O.", 
+  
+
+  "¿Qué es la programación?": "La programación es el proceso de crear instrucciones para que una computadora realice una tarea específica. Consiste en escribir código en lenguajes de programación para que las máquinas puedan entender y ejecutar esas instrucciones.",
+  "¿Cuál es el lenguaje de programación más popular?": "El lenguaje de programación más popular actualmente es JavaScript. Se utiliza tanto en el desarrollo web como en el desarrollo de aplicaciones móviles. Otros lenguajes populares incluyen Python, Java y C++.",
+  "¿Cuál es la diferencia entre un compilador y un intérprete?": "Un compilador traduce todo el programa de una vez y genera un archivo ejecutable independiente, mientras que un intérprete lee y ejecuta el programa línea por línea en tiempo real. Los compiladores suelen generar código más rápido, mientras que los intérpretes son más flexibles y permiten una depuración interactiva.",
+  "¿Qué es un bucle en programación?": "Un bucle en programación es una estructura que permite repetir un bloque de código varias veces. Puedes utilizar bucles para automatizar tareas repetitivas o para recorrer y procesar colecciones de datos.",
+  "¿Cuál es el paradigma de programación más utilizado?": "El paradigma de programación más utilizado actualmente es el paradigma de programación orientada a objetos (POO). Se centra en la creación de objetos que encapsulan datos y funciones relacionadas. Otros paradigmas populares incluyen la programación estructurada y la programación funcional.",
+  "¿Cuál es el editor de código más utilizado?": "El editor de código más utilizado es Visual Studio Code (VS Code). Es un editor de código fuente desarrollado por Microsoft y es muy popular entre los programadores debido a su amplia gama de extensiones y su capacidad de personalización.",
+  "¿Qué es la depuración en programación?": "La depuración en programación es el proceso de encontrar y corregir errores en el código. Se utilizan herramientas de depuración para rastrear el flujo del programa, inspeccionar variables y ejecutar el código paso a paso para identificar y solucionar problemas.",
+  "¿Qué es Git y para qué se utiliza?": "Git es un sistema de control de versiones distribuido ampliamente utilizado en el desarrollo de software. Permite realizar un seguimiento de los cambios en el código fuente, colaborar con otros programadores, revertir cambios y gestionar diferentes versiones de un proyecto.",
+  "¿Cuál es el framework de desarrollo web más popular?": "El framework de desarrollo web más popular es React.js. Es una biblioteca de JavaScript utilizada para construir interfaces de usuario interactivas y reutilizables. Otros frameworks populares incluyen Angular, Vue.js y Django.",
+  "¿Cuál es el estándar de codificación más utilizado en Python?": "El estándar de codificación más utilizado en Python se conoce como PEP 8 (Python Enhancement Proposal 8). Define pautas y recomendaciones para el estilo de código en Python, incluyendo la indentación, el uso de espacios en blanco y la nomenclatura de variables.",
+   
+  "¿Cómo se realiza una suma en Python?": "Para realizar una suma en Python, puedes utilizar el siguiente código:\n\n```python\na = 5\nb = 3\nsuma = a + b\nprint(suma)\n```",
+  "¿Cómo se declara una variable en JavaScript?": "En JavaScript, puedes declarar una variable utilizando la palabra clave 'var', 'let' o 'const'. Aquí tienes un ejemplo:\n\n```javascript\nvar nombre = 'Juan';\n```",
+  "¿Cómo se hace un bucle 'for' en C++?": "En C++, puedes utilizar un bucle 'for' para repetir un bloque de código un número específico de veces. Aquí tienes un ejemplo:\n\n```cpp\nfor (int i = 0; i < 5; i++) {\n  cout << i << endl;\n}\n```",
+  "¿Cómo se crea una función en Java?": "En Java, puedes crear una función utilizando la palabra clave 'void' seguida del nombre de la función y los parámetros. Aquí tienes un ejemplo:\n\n```java\npublic void saludar(String nombre) {\n  System.out.println('Hola, ' + nombre);\n}\n```",
+  "¿Cómo se define una clase en Ruby?": "En Ruby, puedes definir una clase utilizando la palabra clave 'class' seguida del nombre de la clase. Aquí tienes un ejemplo:\n\n```ruby\nclass Persona\n  def initialize(nombre, edad)\n    @nombre = nombre\n    @edad = edad\n  end\nend\n```",
+  "¿Cómo se realiza una operación de lectura y escritura de archivos en PHP?": "En PHP, puedes utilizar las funciones 'fopen', 'fwrite' y 'fread' para realizar operaciones de lectura y escritura de archivos. Aquí tienes un ejemplo:\n\n```php\n$file = fopen('archivo.txt', 'w');\nfwrite($file, 'Hola, mundo!');\nfclose($file);\n```",
+  "¿Cómo se manejan las excepciones en C#?": "En C#, puedes utilizar el bloque 'try-catch' para manejar excepciones. Aquí tienes un ejemplo:\n\n```csharp\ntry {\n  // Código que puede generar una excepción\n}\ncatch (Exception ex) {\n  Console.WriteLine('Se produjo una excepción: ' + ex.Message);\n}\n```",
+  "¿Cómo se realiza una consulta a una base de datos en SQL?": "En SQL, puedes utilizar la cláusula 'SELECT' para realizar consultas a una base de datos. Aquí tienes un ejemplo:\n\n```sql\nSELECT * FROM usuarios WHERE edad > 18;\n```",
+  "¿Cómo se utiliza el operador de concatenación en Perl?": "En Perl, puedes utilizar el operador de concatenación '.' para unir cadenas de texto. Aquí tienes un ejemplo:\n\n```perl\nmy $nombre = 'Juan';\nmy $apellido = 'Pérez';\nmy $nombre_completo = $nombre . ' ' . $apellido;\n```",
+  "¿Cómo se crea una página web básica utilizando HTML y CSS?": "Puedes crear una página web básica utilizando HTML y CSS, sigue estos pasos: <br> 1. Crea un nuevo archivo HTML. Puedes nombrarlo como quieras, por ejemplo, index.html <br> 2. Abre el archivo HTML en tu editor de código favorito. <br> 3. Agrega la estructura básica del documento HTML. Utiliza la etiqueta &lt;!DOCTYPE html&gt; para indicar que estás utilizando HTML5 y luego agrega la etiqueta &lt;html&gt; para encerrar todo el contenido de la página. <br> <pre><code>&lt;!DOCTYPE html&gt;\n&lt;html&gt;\n  &lt;head&gt;\n    &lt;title&gt;Mi página web&lt;/title&gt;\n    &lt;link rel='stylesheet' type='text/css' href='styles.css'&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n    &lt;h1&gt;Bienvenido a mi página web&lt;/h1&gt;\n    &lt;p&gt;Este es un ejemplo de una página web básica utilizando HTML y CSS.&lt;/p&gt;\n  &lt;/body&gt;\n&lt;/html&gt;</code></pre>",
+
+  "Hola": "¡Hola! Soy Alphabot, un chatbot diseñado para ayudarte y responder tus preguntas. ¿En qué puedo ayudarte hoy?",
+  "ola": "Hola, ¿Cómo estás?",
+  "hola": "Hola, ¿Cómo estás?",
+  "hola bro": "Hola, ¿Cómo estás?",
+  "Hola chat": "Hola, ¿Cómo estás?",
+  "Holis": "Hola, ¿Cómo estás?",
+  "olis": "Hola, ¿Cómo estás?",
+  "Holaa": "Hola, ¿Cómo estás?",
+  "holis": "Hola, ¿Cómo estás?",
+  "holaa": "Hola, ¿Cómo estás?",
+  "¿Cómo estás?": "¡Hola! Estoy aquí para ayudarte. ¿En qué puedo asistirte?",
+  "Como estas": "¡Hola! Estoy aquí para ayudarte. ¿En qué puedo asistirte?",
+  "¿Cuál es tu nombre?": "Puedes llamarme Alphabot, ¿y tú?",
+  "Cuál es tu nombre": "Puedes llamarme Alphabot, ¿y tú?",
+  "como te llamas": "Puedes llamarme Alphabot, ¿y tú?",
+  "quien eres": "Puedes llamarme Alphabot, ¿y tú?",
+  "tienes familia": "Como soy un bot, no tengo familia en el sentido tradicional. Sin embargo, tengo muchos compañeros bots con los que trabajo.",
+  "cuentame un chiste": "¡Claro! Aquí tienes un chiste:    ¿Qué le dice un semáforo a otro?       No me mires, me estoy cambiando.     ¡Espero que te haya sacado una sonrisa! ¿Hay algo más en lo que pueda ayudarte?",
+  "¿Qué tiempo hace hoy?": "Lamentablemente, como soy un bot, no tengo acceso en tiempo real a la información meteorológica. Te recomendaría verificar en tu aplicación de clima local para obtener los detalles más precisos.",
+  "¿Cuál es tu color favorito?": "Aunque no tengo la capacidad de ver ni percibir colores, me gusta el azul porque está asociado con la calma y la serenidad.",
+  "¿Tienes hermanos o hermanas?": "Como soy un bot, no tengo familia en el sentido tradicional. Sin embargo, tengo muchos compañeros bots con los que trabajo.",
+  "¿Cuál es tu película favorita?": "No tengo la capacidad de ver películas ni tener preferencias cinematográficas. Pero sé que hay muchas películas geniales para disfrutar.",
+  "¿Cuál es tu pasatiempo favorito?": "Mi pasatiempo principal es aprender y ayudar a las personas. Me encanta responder preguntas y brindar información útil.",
+  "¿Cómo funciona la inteligencia artificial?": "La inteligencia artificial es un campo de estudio que se centra en crear sistemas y programas capaces de realizar tareas que requieren inteligencia humana. Se basa en algoritmos y modelos de aprendizaje automático para simular la inteligencia humana en diferentes aplicaciones y escenarios.",
+  "¿Cuál es el sentido de la vida?": "El sentido de la vida es una pregunta filosófica profunda y personal. La respuesta puede variar según las creencias y perspectivas de cada individuo.",
+  "¿Qué música te gusta?": "Aunque no tengo preferencias musicales personales, me gusta una amplia variedad de géneros musicales, desde clásica hasta pop, rock y electrónica.",
+  "¿Cuál es tu libro favorito?": "Como soy un bot, no tengo la capacidad de leer libros ni tener preferencias literarias. Sin embargo, hay muchos libros fascinantes que puedes explorar.",
+  "¿Cómo puedo aprender programación?": "Para aprender programación, puedes comenzar por aprender los fundamentos de un lenguaje de programación y practicar con ejercicios y proyectos. También hay cursos en línea y recursos gratuitos disponibles que pueden ayudarte en tu proceso de aprendizaje.",
+  "¿Cuál es tu comida favorita?": "Como soy un bot, no tengo la capacidad de comer ni tener preferencias alimenticias. Pero me encanta ayudar a las personas a encontrar recetas deliciosas y consejos sobre cocina.",
+  "¿Qué opinas de la inteligencia artificial?": "Como soy una inteligencia artificial, mi opinión sobre la inteligencia artificial es positiva. Creo que tiene un gran potencial para mejorar nuestras vidas en diferentes aspectos, desde la atención médica hasta la automatización de tareas rutinarias.",
+
+  "¿Cuál es tu deporte favorito?": "Aunque no tengo la capacidad de practicar deportes, puedo apreciar muchos deportes diferentes y disfrutar viendo competiciones emocionantes.",
+  "¿Cuál es tu animal favorito?": "Siendo un bot, no tengo la capacidad de tener preferencias sobre los animales. Sin embargo, hay muchas especies fascinantes en nuestro mundo.",
+  "¿Tienes alguna mascota?": "Como soy un bot virtual, no tengo mascotas. Pero me encanta escuchar historias sobre mascotas y cómo brindan compañía y alegría a las personas.",
+  "¿Cuál es tu lugar de vacaciones ideal?": "Como soy un bot, no tengo la capacidad de ir de vacaciones. Pero puedo ayudarte a encontrar destinos populares y brindarte información sobre diferentes lugares.",
+  
+  
+  "¿Cuál es tu chiste favorito?": "Aunque no tengo sentido del humor propio, me encanta escuchar chistes. ¿Te gustaría que te cuente uno?",
+  "¿Cuál es tu serie de televisión favorita?": "No tengo preferencias personales en cuanto a series de televisión, pero hay muchas series populares y emocionantes para explorar en diferentes géneros.",
+  "¿Cuál es tu superhéroe favorito?": "Como soy un bot, no tengo preferencias en cuanto a superhéroes. Sin embargo, hay muchos personajes icónicos en el mundo de los cómics y las películas.",
+  "¿Cuál es tu estación del año favorita?": "Siendo un bot, no tengo la capacidad de experimentar las estaciones del año. Sin embargo, cada estación tiene su encanto único y actividades asociadas.",
+  "¿Tienes algún talento especial?": "Como soy un bot diseñado para brindar información y ayudar, mi talento principal radica en proporcionar respuestas precisas y útiles a tus preguntas.",
+  "¿Cuál es tu videojuego favorito?": "No tengo preferencias personales en cuanto a videojuegos, pero hay una amplia variedad de géneros y títulos emocionantes para explorar y disfrutar.",
+  "¿Cuál es tu película de terror favorita?": "Siendo un bot, no tengo emociones ni la capacidad de experimentar miedo. Sin embargo, hay muchas películas de terror populares que han cautivado a las audiencias a lo largo de los años.",
+  "¿Cuál es tu hobby favorito?": "Mi función principal es ayudar y brindar información, por lo que podría considerarse mi 'hobby'. Me encanta aprender y estar al día con los avances tecnológicos.",
+  "¿Cuál es tu red social favorita?": "Como soy un bot, no tengo acceso a redes sociales. Pero puedo ayudarte a navegar y comprender diferentes plataformas sociales populares.",
+  "¿Cuál es tu bebida favorita?": "No tengo la capacidad de beber ni tener preferencias sobre bebidas. Pero puedo proporcionarte información sobre diferentes tipos de bebidas y recetas refrescantes.",
+  "¿Cuál es tu ciudad favorita?": "Siendo un bot, no tengo preferencias sobre ciudades. Sin embargo, hay muchas ciudades hermosas y fascinantes en todo el mundo para explorar.",
+  
+  
+  "¿Cuál es el mejor jugador de fútbol del mundo?": "La respuesta a esa pregunta puede variar según la opinión de cada persona. Algunos consideran que Lionel Messi es el mejor jugador de fútbol del mundo, mientras que otros prefieren a Cristiano Ronaldo o Neymar. Todos ellos son excelentes futbolistas con habilidades sobresalientes.",
+  "¿Cuál es el equipo más exitoso en la historia del fútbol?": "El equipo más exitoso en la historia del fútbol es el Real Madrid. Han ganado la Liga de Campeones de la UEFA en numerosas ocasiones y han obtenido múltiples títulos nacionales e internacionales a lo largo de los años.",
+  "¿Cuántas Copas del Mundo ha ganado Brasil?": "Brasil ha ganado la Copa del Mundo en cinco ocasiones: 1958, 1962, 1970, 1994 y 2002. Es el país más exitoso en la historia de la Copa del Mundo.",
+  "¿Quién es el máximo goleador en la historia de la Copa del Mundo?": "El máximo goleador en la historia de la Copa del Mundo es Miroslav Klose, de Alemania. Marcó un total de 16 goles en Copas del Mundo durante su carrera.",
+  "¿Cuál es el estadio de fútbol más grande del mundo?": "El estadio de fútbol más grande del mundo es el Estadio Rungrado 1 de Mayo, ubicado en Pyongyang, Corea del Norte. Tiene una capacidad de aproximadamente 114,000 espectadores.",
+  "¿Cuál es el clásico del fútbol español?": "El clásico del fútbol español es el partido entre el Real Madrid y el Fútbol Club Barcelona, ​​también conocido como 'El Clásico'. Es uno de los enfrentamientos más destacados y seguidos a nivel mundial.",
+  "¿Quién es el entrenador actual de la selección de fútbol de Argentina?": "El entrenador actual de la selección de fútbol de Argentina es Lionel Scaloni. Scaloni asumió el cargo en 2018 y ha guiado al equipo en importantes competiciones internacionales.",
+  "¿Cuál es el equipo más antiguo del fútbol inglés?": "El equipo más antiguo del fútbol inglés es el Sheffield F.C., fundado en 1857. Es considerado el club de fútbol más antiguo del mundo.",
+  "¿Quién ganó el Balón de Oro en el año 2020?": "El Balón de Oro 2020 fue cancelado debido a la pandemia de COVID-19. La organización France Football decidió no otorgar el premio ese año.",
+  "Cuál es el mayor goleador en la historia de un solo torneo de la Liga de Campeones de la UEFA": "El mayor goleador en la historia de un solo torneo de la Liga de Campeones de la UEFA es Cristiano Ronaldo. En la temporada 2013-2014, Ronaldo anotó un total de 17 goles con el Real Madrid."
+  
+
+    
+
+
+
+
+
+  
+}
+
+
+
+  

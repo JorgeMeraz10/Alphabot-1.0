@@ -5,13 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Estilos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" crossorigin="anonymous" />
+
     <script src="script.js"></script>
     <title >Chatbot: AlphaBot 1.0</title>
 </head>
 <body class="body">
 
     <h1 class="titulo">AlphaBot</h1>
-    <img  class="icon" src="icon.gif" alt="">
+    <img  class="icon" src="/img/icon.gif" alt="">
     <div class="chatbot-container">
         <div class="chatlog" id="chatlog">
             <ul id="messageList"></ul>
@@ -32,7 +34,7 @@
     <div></div>
   </div>
 
-  <!-- Agregar menú desplegable -->
+  <!-- Agregar menú desplegable  en Dispositivos Moviles-->
   <div class="mobile-menu">
     <div class="menu-header">
       <h2>Creador</h2>
@@ -46,7 +48,7 @@
 
  
 
-  <!-- Resto del código HTML sin cambios -->
+  <!--Pie de Pagina -->
 
       <div class="footerpage">
         <nav>
@@ -57,12 +59,14 @@
       </div>
           
 
-    
+  <!--Funcion para hacer Scroll-->
+      <script>
+        function scrollToBottom() {
+          var chatlog = document.querySelector('.chatlog');
+          chatlog.scrollTop = chatlog.scrollHeight;
+        }
+        scrollToBottom();
+      </script>
       
-
-
-    
-
-    
 </body>
 </html>
