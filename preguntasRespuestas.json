@@ -1,6 +1,12 @@
 {
+   "---PROMPS-- ": "Informacion de Wikis",
     "¿Cuál es la capital de Honduras?": "La capital de Honduras es Tegucigalpa.",
+    "Cuál es la capital de Honduras": "La capital de Honduras es Tegucigalpa.",
+    "Cual es la capital de Honduras": "La capital de Honduras es Tegucigalpa.",
+    "cual es la capital de honduras": "La capital de Honduras es Tegucigalpa.",
     "¿En qué año se fundó Google?": "Google fue fundado en 1998.",
+    "En que año se fundó Google": "Google fue fundado en 1998.",
+    "en que año se fundo google": "Google fue fundado en 1998.",
     "¿Cuál es la página web oficial de la Casa Blanca?": "La página web oficial de la Casa Blanca es <a href='https://www.whitehouse.gov/'>https://www.whitehouse.gov/</a>",
     "¿Cuántos planetas hay en el sistema solar?": "Hay ocho planetas en el sistema solar.",
     "¿Qué es un algoritmo?": "Un algoritmo es un conjunto ordenado de instrucciones que se utilizan para realizar una tarea o resolver un problema.",
@@ -17,7 +23,16 @@
     "¿Cuántos huesos tiene el cuerpo humano?": "El cuerpo humano tiene 206 huesos.",
     "¿Cuál es el símbolo químico del agua?": "El símbolo químico del agua es H2O.", 
   
-
+    "---PROMPT---": "Informacion del Universo",
+  "¿Cuál es la teoría del Big Bang?": "La teoría del Big Bang es un modelo ampliamente aceptado que describe el origen y la evolución del universo. Según esta teoría, el universo comenzó como una singularidad extremadamente caliente y densa hace aproximadamente 13.8 mil millones de años. A partir de ese momento, el universo ha estado en constante expansión y enfriamiento.",
+  "¿Cuántos planetas hay en nuestro sistema solar?": "En nuestro sistema solar, hay ocho planetas reconocidos oficialmente: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno. Plutón, que solía considerarse el noveno planeta, fue reclasificado como un planeta enano en 2006.",
+  "¿Cuál es el planeta más grande del sistema solar?": "El planeta más grande del sistema solar es Júpiter. Es un gigante gaseoso con un diámetro aproximado de 143.000 kilómetros, lo que lo convierte en más de 11 veces más grande que la Tierra.",
+  "¿Qué es un agujero negro?": "Un agujero negro es una región del espacio-tiempo con una fuerza gravitacional extremadamente fuerte, tan fuerte que nada, ni siquiera la luz, puede escapar de su atracción. Se forma cuando una estrella masiva colapsa bajo su propia gravedad. Los agujeros negros tienen una densidad infinita y un centro llamado singularidad.",
+  "¿Cuál es la distancia promedio entre la Tierra y el Sol?": "La distancia promedio entre la Tierra y el Sol es de aproximadamente 149.6 millones de kilómetros. Esta distancia se conoce como una Unidad Astronómica (UA) y se utiliza como una medida estándar en astronomía.",
+  "¿Qué es una galaxia?": "Una galaxia es un vasto conjunto de estrellas, planetas, gas, polvo y otros objetos astronómicos unidos por la gravedad. Las galaxias vienen en diferentes formas y tamaños, desde pequeñas galaxias enanas hasta gigantes galaxias elípticas o espirales. La Vía Láctea es la galaxia en la que se encuentra nuestro sistema solar.",
+  "¿Cuál es la estrella más cercana a la Tierra?": "La estrella más cercana a la Tierra, además del Sol, es Alfa Centauri. Es un sistema estelar triple compuesto por tres estrellas: Alfa Centauri A, Alfa Centauri B y Próxima Centauri. Próxima Centauri es la estrella más cercana a nosotros, ubicada a una distancia de aproximadamente 4.22 años luz.",
+ 
+    "--PROMPS-- ": "Informacion de programación e Informatica",
   "¿Qué es la programación?": "La programación es el proceso de crear instrucciones para que una computadora realice una tarea específica. Consiste en escribir código en lenguajes de programación para que las máquinas puedan entender y ejecutar esas instrucciones.",
   "¿Cuál es el lenguaje de programación más popular?": "El lenguaje de programación más popular actualmente es JavaScript. Se utiliza tanto en el desarrollo web como en el desarrollo de aplicaciones móviles. Otros lenguajes populares incluyen Python, Java y C++.",
   "¿Cuál es la diferencia entre un compilador y un intérprete?": "Un compilador traduce todo el programa de una vez y genera un archivo ejecutable independiente, mientras que un intérprete lee y ejecuta el programa línea por línea en tiempo real. Los compiladores suelen generar código más rápido, mientras que los intérpretes son más flexibles y permiten una depuración interactiva.",
@@ -39,10 +54,18 @@
   "¿Cómo se realiza una consulta a una base de datos en SQL?": "En SQL, puedes utilizar la cláusula 'SELECT' para realizar consultas a una base de datos. Aquí tienes un ejemplo:\n\n```sql\nSELECT * FROM usuarios WHERE edad > 18;\n```",
   "¿Cómo se utiliza el operador de concatenación en Perl?": "En Perl, puedes utilizar el operador de concatenación '.' para unir cadenas de texto. Aquí tienes un ejemplo:\n\n```perl\nmy $nombre = 'Juan';\nmy $apellido = 'Pérez';\nmy $nombre_completo = $nombre . ' ' . $apellido;\n```",
   "¿Cómo se crea una página web básica utilizando HTML y CSS?": "Puedes crear una página web básica utilizando HTML y CSS, sigue estos pasos: <br> 1. Crea un nuevo archivo HTML. Puedes nombrarlo como quieras, por ejemplo, index.html <br> 2. Abre el archivo HTML en tu editor de código favorito. <br> 3. Agrega la estructura básica del documento HTML. Utiliza la etiqueta &lt;!DOCTYPE html&gt; para indicar que estás utilizando HTML5 y luego agrega la etiqueta &lt;html&gt; para encerrar todo el contenido de la página. <br> <pre><code>&lt;!DOCTYPE html&gt;\n&lt;html&gt;\n  &lt;head&gt;\n    &lt;title&gt;Mi página web&lt;/title&gt;\n    &lt;link rel='stylesheet' type='text/css' href='styles.css'&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n    &lt;h1&gt;Bienvenido a mi página web&lt;/h1&gt;\n    &lt;p&gt;Este es un ejemplo de una página web básica utilizando HTML y CSS.&lt;/p&gt;\n  &lt;/body&gt;\n&lt;/html&gt;</code></pre>",
-
+  "Que es ChatGPT": "ChatGPT es un modelo de lenguaje basado en la arquitectura GPT (Generative Pre-trained Transformer), desarrollado por OpenAI. GPT significa Transformador Preentrenado Generativo y se refiere a un tipo de modelo de inteligencia artificial diseñado para generar texto coherente y relevante en respuesta a una entrada dada.",
+  
+  "---PROMPS--- ": "Conversaciones entre Humanos comunes a chat",
   "Hola": "¡Hola! Soy Alphabot, un chatbot diseñado para ayudarte y responder tus preguntas. ¿En qué puedo ayudarte hoy?",
   "ola": "Hola, ¿Cómo estás?",
-  "hola": "Hola, ¿Cómo estás?",
+  "Todo bien y tu?": "¡Me alegra saber que estás bien! Como soy un Chatbot, no tengo emociones, pero estoy aquí para ayudarte en lo que necesites. ¿Hay algo en particular de lo que te gustaría hablar o preguntar?",
+  "Todo bien y tu": "¡Me alegra saber que estás bien! Como soy un Chatbot, no tengo emociones, pero estoy aquí para ayudarte en lo que necesites. ¿Hay algo en particular de lo que te gustaría hablar o preguntar?",
+  "todo bien y tu": "¡Me alegra saber que estás bien! Como soy un Chatbot, no tengo emociones, pero estoy aquí para ayudarte en lo que necesites. ¿Hay algo en particular de lo que te gustaría hablar o preguntar?",
+  "Estoy Bien": "¡Me alegra saber que estás bien! Como soy un Chatbot, no tengo emociones, pero estoy aquí para ayudarte en lo que necesites. ¿Hay algo en particular de lo que te gustaría hablar o preguntar?",
+  "estoy bien": "¡Me alegra saber que estás bien! Como soy un Chatbot, no tengo emociones, pero estoy aquí para ayudarte en lo que necesites. ¿Hay algo en particular de lo que te gustaría hablar o preguntar?",  
+  "hola": "Hola, ¿Cómo estás?",  
+  "": "Hola, ¿Cómo estás?",  
   "hola bro": "Hola, ¿Cómo estás?",
   "Hola chat": "Hola, ¿Cómo estás?",
   "Holis": "Hola, ¿Cómo estás?",
@@ -52,10 +75,13 @@
   "holaa": "Hola, ¿Cómo estás?",
   "¿Cómo estás?": "¡Hola! Estoy aquí para ayudarte. ¿En qué puedo asistirte?",
   "Como estas": "¡Hola! Estoy aquí para ayudarte. ¿En qué puedo asistirte?",
+  "como estas": "¡Hola! Estoy aquí para ayudarte. ¿En qué puedo asistirte?",
   "¿Cuál es tu nombre?": "Puedes llamarme Alphabot, ¿y tú?",
-  "Cuál es tu nombre": "Puedes llamarme Alphabot, ¿y tú?",
-  "como te llamas": "Puedes llamarme Alphabot, ¿y tú?",
-  "quien eres": "Puedes llamarme Alphabot, ¿y tú?",
+  "Cuál es tu nombre": "Puedes llamarme Alphabot.",
+  "Cual es tu nombre": "Puedes llamarme Alphabot.",
+  "cual es tu nombre": "Puedes llamarme Alphabot.",
+  "como te llamas": "Puedes llamarme Alphabot.",
+  "quien eres": "Soy Alphabot",
   "tienes familia": "Como soy un bot, no tengo familia en el sentido tradicional. Sin embargo, tengo muchos compañeros bots con los que trabajo.",
   "cuentame un chiste": "¡Claro! Aquí tienes un chiste:    ¿Qué le dice un semáforo a otro?       No me mires, me estoy cambiando.     ¡Espero que te haya sacado una sonrisa! ¿Hay algo más en lo que pueda ayudarte?",
   "¿Qué tiempo hace hoy?": "Lamentablemente, como soy un bot, no tengo acceso en tiempo real a la información meteorológica. Te recomendaría verificar en tu aplicación de clima local para obtener los detalles más precisos.",
@@ -99,16 +125,7 @@
   "¿Quién es el entrenador actual de la selección de fútbol de Argentina?": "El entrenador actual de la selección de fútbol de Argentina es Lionel Scaloni. Scaloni asumió el cargo en 2018 y ha guiado al equipo en importantes competiciones internacionales.",
   "¿Cuál es el equipo más antiguo del fútbol inglés?": "El equipo más antiguo del fútbol inglés es el Sheffield F.C., fundado en 1857. Es considerado el club de fútbol más antiguo del mundo.",
   "¿Quién ganó el Balón de Oro en el año 2020?": "El Balón de Oro 2020 fue cancelado debido a la pandemia de COVID-19. La organización France Football decidió no otorgar el premio ese año.",
-  "Cuál es el mayor goleador en la historia de un solo torneo de la Liga de Campeones de la UEFA": "El mayor goleador en la historia de un solo torneo de la Liga de Campeones de la UEFA es Cristiano Ronaldo. En la temporada 2013-2014, Ronaldo anotó un total de 17 goles con el Real Madrid."
-  
-
-    
-
-
-
-
-
-  
+  "Cuál es el mayor goleador en la historia de un solo torneo de la Liga de Campeones de la UEFA": "El mayor goleador en la historia de un solo torneo de la Liga de Campeones de la UEFA es Cristiano Ronaldo. En la temporada 2013-2014, Ronaldo anotó un total de 17 goles con el Real Madrid."  
 }
 
 
